@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "bencium-claude-code-design-skill",
+  "name": "bencium-marketplace",
   "description": "Design, architecture, and productivity plugins for Claude Code by bencium.io",
   "owner": {
     "name": "bencium.io",

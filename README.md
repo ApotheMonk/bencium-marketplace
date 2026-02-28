@@ -1,4 +1,4 @@
-# bencium-claude-code-design-skill
+# bencium-marketplace
 
 A Claude Code plugin marketplace with 11 skills for design, architecture, and productivity by [bencium.io](https://bencium.io).
 
@@ -10,10 +10,10 @@ Add the marketplace, then install individual plugins:
 
 ```bash
 # Add marketplace
-/plugin marketplace add bencium/bencium-claude-code-design-skill
+/plugin marketplace add bencium/bencium-marketplace
 
 # Install any plugin
-/plugin install bencium-controlled-ux-designer@bencium-claude-code-design-skill
+/plugin install bencium-controlled-ux-designer@bencium-marketplace
 ```
 
 ### Claude.ai Cowork App
